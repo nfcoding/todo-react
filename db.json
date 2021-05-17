@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "body": "ini adalah isi contenttnya"
+    },
+    {
+      "id": 2,
+      "title": "Belajar PHP",
+      "body": "ini adalah isi contenttnya belajr php"
+    },
+    {
+      "id": 1614929336804,
+      "title": "bs",
+      "body": "sd",
+      "userId": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
